@@ -31,7 +31,7 @@ export const profiles = {
 
     carl: {
         title: "Carl Wiklund",
-        about: "Restaurang & Bar Konsult",
+        about: "Event & Restaurang Konsult",
         contact: {
             email: "cw@carlwiklund.com",
             instagram: "www.instagram.com/_wiklund_",
