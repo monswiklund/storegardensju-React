@@ -22,12 +22,11 @@ function VälkomstText() {
           </FadeInSection>
           <FadeInSection>
             <p>Konstnärliga kurser i att måla och att skapa med keramik.</p>
-            <p>Eller hyr vår fina lokal till att anordna kalas eller fest.</p>
+            <p>Eller hyr vår fina lokal till att anordna kalas, bröllop, eller fest.</p>
           </FadeInSection>
           <FadeInSection>
             <p>
-              Loppis har vi även emellanåt och det finns en gårdsbutik med
-              konst, keramik och en atelje för inspiration.
+              Loppis har vi även emellanåt och det finns en gårdsbutik med konst, keramik och en atelje för inspiration.
             </p>
           </FadeInSection>
           <br/>

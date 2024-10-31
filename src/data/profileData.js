@@ -4,7 +4,6 @@ export const profiles = {
         title: "Ann Wiklund",
         about: "Konstnär & Keramiker",
         contact: {
-            phone: "0510-532 288",
             email: "info@annwiklund.se",
             instagram: "www.instagram.com/annwiklundstudio/",
             address: "Storegården 7, Rackeby, Lidköping"
